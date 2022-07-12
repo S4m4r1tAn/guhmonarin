@@ -22,10 +22,9 @@
 ## 📊 Dê uma olhada nas minhas estatísticas
 
 <a href="https://github.com/guhmonarin">
-<img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=guhmonarin&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
-<img height="150em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhmonarin&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
+<img height="140em" align="left" src="https://github-readme-stats.vercel.app/api?username=guhmonarin&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
+<img height="140em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhmonarin&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
 </a>
-
 
 <br>
 <br>
@@ -37,7 +36,6 @@
 <br>
     
 ---
-
 <p align="center" > 
   <i>Obrigado</i><br><br>
   <i>Sinta-se a vontade em falar comigo</i><br><br>
