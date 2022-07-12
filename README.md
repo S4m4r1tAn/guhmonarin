@@ -13,25 +13,38 @@
 
 <br>
 
-## 💻 Tech stack
+## 💻 Tecnologias
 ![Python Logo](/images/python.svg)
 ![HTML Logo](/images/html5.svg)
 ![CSS Logo](/images/css3.svg)
 ![Javascript Logo](/images/javascript.svg)
 
+## 📊 Dê uma olhada nas minhas estatísticas
+
+<a href="https://github.com/guhmonarin">
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=guhmonarin&show_icons=true&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
+<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhmonarin&layout=compact&bg_color=282A36&title_color=DD6387&icon_color=BD93F9&text_color=fff&border_color=fff" />
+</a>
 
 
-<!--
-**guhmonarin/guhmonarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+    
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" > 
+  <i>Obrigado</i><br><br>
+  <i>Sinta-se a vontade em falar comigo</i><br><br>
+  <a href="https://www.linkedin.com/in/gustavo-monarin-652672127/">
+  <code><img alt="Meu linkedin" width="32" src="./images/linkedin.svg" /></code>
+</a>
+<a href="https://instagram.com/guhmonarin">
+<code><img alt="Meu instagran" width="32" src="./images/instagram.svg" /></code>
+</a>
+</p>
