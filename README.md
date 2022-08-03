@@ -14,6 +14,9 @@
 <br>
 
 ## 💻 Tecnologias
+![html5 Logo](/images/html5.svg)
+![css3 Logo](/images/css3.svg)
+![javascript Logo](/images/javascript.svg)
 ![Python Logo](/images/python.svg)
 
 ## 📊 Dê uma olhada nas minhas estatísticas
